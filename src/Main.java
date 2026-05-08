@@ -40,7 +40,7 @@ public class Main {
                     total = total + 29000 + total / 100;
                     System.out.println("Месяц " + i + ", сумма накоплений равна " + total + " рублей");
                 }
-                // задание 10
+                //  задание 10
                 for (int i = 1; i <= 10; i++) {
                     System.out.println("2*" + i + "=" + 2 * i);
                 }
